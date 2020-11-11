@@ -68,7 +68,7 @@ function Calculate (){
     var addToResult = '';
 
     if(set === '' || subset === ''){
-        alert('Fill the whole form');
+        alert('Complete the form');
     }
     else{
 
